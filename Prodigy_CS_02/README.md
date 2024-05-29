@@ -14,10 +14,10 @@ Decryption is then conducted by applying the same XOR operation with the key.
 Note: Before running this script, ensure that the PIL (Python Imaging Library) is installed. If it's not installed, you can do so using the command "pip install pillow".
 
 Sample Input:
-![alt](https://github.com/Peris034/Prodigy-InfoTech/blob/main/Prodigy_CS_02/sample%20input.png)
+![alt](https://github.com/Peris034/Prodigy-InfoTech/blob/main/Prodigy_CS_02/sample%20input.jpg)
 
 Encrypted Output:
-![alt](https://github.com/Peris034/Prodigy-InfoTech/blob/main/Prodigy_CS_02/encrypted%20output.png)
+![alt](https://github.com/Peris034/Prodigy-InfoTech/blob/main/Prodigy_CS_02/encrypted%20output.jpg)
 
 Decrypted Output:
-![alt](https://github.com/Peris034/Prodigy-InfoTech/blob/main/Prodigy_CS_02/decrypted%20output.png)
+![alt](https://github.com/Peris034/Prodigy-InfoTech/blob/main/Prodigy_CS_02/decrypted%20output.jpg)
