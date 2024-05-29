@@ -47,3 +47,8 @@ encrypted_text = implement_caesar_cipher(text_to_encrypt, key)
 # Display the encrypted text.
 print(f"{Fore.GREEN}[+] {text_to_encrypt} {Fore.MAGENTA}has been encrypted as {Fore.RED}{encrypted_text}")
 
+Text encryption and decryption using Ceaser Cypher with python
+
+First choose the operation then specify the shift value and message you want to Encrypt/Decrypt. sample output:
+
+![alt](https://github.com/Peris034/Prodigy-InfoTech/blob/main/Prodigy_CS_01/sample%20output.png)
