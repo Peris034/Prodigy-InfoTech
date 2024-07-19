@@ -135,7 +135,7 @@ This project involves building a tool for capturing and analyzing network packet
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Peris034/Prodigy-Infotech.git](https://github.com/Peris034/Prodigy-InfoTech)
+   git clone https://github.com/Peris034/Prodigy-InfoTech
    cd Prodigy-Infotech
    ```
 
