@@ -21,6 +21,11 @@ This project involves creating a Python program that can encrypt and decrypt tex
 - **Decryption**: Decrypts the encrypted message using the same shift value.
 - **User Input**: Allows users to input the message and shift value.
 
+# Video Demo
+
+[Watch the video](https://drive.google.com/file/d/1ZKwjc_vxueEdSgRtoO46SuI7qqgoSW5V/view?usp=sharing)
+
+
 ### **Task 2: Image Manipulation**
 
 This project involves creating a Python tool for basic image manipulation, including resizing, cropping, and applying filters. Users can input an image file and choose from various manipulation options.
