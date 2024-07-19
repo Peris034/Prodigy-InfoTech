@@ -21,7 +21,7 @@ This project involves creating a Python program that can encrypt and decrypt tex
 - **Decryption**: Decrypts the encrypted message using the same shift value.
 - **User Input**: Allows users to input the message and shift value.
 
-# Video Demo
+##### Video Demo
 
 [Watch the video](https://drive.google.com/file/d/1ZKwjc_vxueEdSgRtoO46SuI7qqgoSW5V/view?usp=sharing)
 
@@ -35,6 +35,10 @@ This project involves creating a Python tool for basic image manipulation, inclu
 - **Cropping**: Crop images to a user-defined area.
 - **Filters**: Apply filters such as grayscale, sepia, and blur.
 
+##### Video Demo
+
+[Watch the video](https://drive.google.com/file/d/1z0Xo-MwTdgsH5nFfOAxb-Jkl6mO2zolb/view?usp=sharing)
+
 ### **Task 3: Password Strength Assessment Tool**
 
 This project involves building a tool that assesses the strength of a password based on various criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. It provides feedback to users on the password's strength.
@@ -43,6 +47,10 @@ This project involves building a tool that assesses the strength of a password b
 - **Length Check**: Ensures the password meets a minimum length requirement.
 - **Character Check**: Checks for the presence of uppercase and lowercase letters, numbers, and special characters.
 - **Strength Feedback**: Provides feedback on the password's strength (e.g., weak, moderate, strong).
+
+##### Video Demo
+
+[Watch the video](https://drive.google.com/file/d/1Z1i7JhYNaUpnVvKq5jiqRgGBZHzqsQ9m/view?usp=sharing)
 
 ### **Task 4: Keylogger**
 
@@ -53,6 +61,10 @@ This project involves creating a Python-based keylogger for monitoring and loggi
 - **File Storage**: Saves the logged keystrokes to a file.
 - **Stealth Mode**: Runs in the background without being easily detected.
 
+##### Video Demo
+
+[Watch the video](https://drive.google.com/file/d/1tuPpkA3WTYd-xPhFAyksOxDVUzrZpd5L/view?usp=sharing)
+
 ### **Task 5: Network Packet Analyzer**
 
 This project involves building a tool for capturing and analyzing network packets. Users can capture network traffic and analyze various packet details such as source, destination, protocol, and payload.
@@ -62,6 +74,9 @@ This project involves building a tool for capturing and analyzing network packet
 - **Packet Analysis**: Analyzes packets for source, destination, protocol, and payload.
 - **Filtering**: Allows users to filter packets based on criteria such as IP address and protocol.
 
+##### Video Demo
+
+[Watch the video](https://drive.google.com/file/d/1K2aggLbqicU5CHslENvWqa1DkM0FfFF2/view?usp=sharing)
 
 ## 📝 Day-by-Day Progress
 
